@@ -1,5 +1,5 @@
 # BCTOT
-This is the code repository of our paper **Boosting Adversarial Transferability by BlockCombined Transformations and OverlayTranslation**.
+This is the code repository of our paper **Boosting Adversarial Transferability by Block Combined Transformations and Overlay Translation**.
 # Requirements
 The following configuration is the environment for some of our work. You can make changes according to your actual situation. Just maintain the corresponding torch version.
 - python==3.9
